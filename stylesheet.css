@@ -1,0 +1,190 @@
+body {
+
+margin: 0px;
+background-color: white;
+
+}
+
+/* =======================Header============================ */
+#header {
+
+margin: 0px;
+padding:2px;
+height: 45px;
+background-color: rgb(47, 47, 134);
+
+
+}
+
+
+
+/*======================Heading section=================*/
+
+
+h2 {
+
+color: white;
+font-family: helvetica;
+text-align: center; 
+
+                                    
+ top:50%;
+ -webkit-transform: translateY(-50%);
+ -ms-transform: translateY(-50%);
+ transform: translateY(-50%);  
+  
+}
+
+
+
+h1 {
+
+
+font-family:helvetica;
+text-align: center; 
+
+}
+
+/* ====================Paragraph section======================= */
+
+p {
+
+font-family: helvetica;
+text-align: center; 
+font-size: 16px;
+}
+
+
+/* =============================================Main section=========================================== */
+
+
+
+
+.table{
+
+
+   
+    width: 400px;
+    margin-right: auto;
+    margin-left: auto;
+    font-family: Helvetica;
+
+}
+
+
+.center{
+
+    margin-right: auto;
+    margin-left: auto;
+ 
+    width: 350px;
+    
+
+
+
+}
+
+
+.form {
+
+display: table-cell;
+padding: 5px;
+
+
+}
+
+.form label {
+
+
+display: table-row;
+
+
+
+}
+
+
+.form input {
+
+
+    display: table-column;
+    width: 150px;
+    height: 30px;
+    border-radius: 5px;
+
+    margin-top: 5px;
+    
+    }
+
+
+    /* ================Submit=================== */
+
+    .submit {
+
+        height: 35px;
+        width: 200px;
+        background-color: rgb(59, 59, 200);
+        color: white;
+        border-radius: 8px;
+        margin-left:80px;
+        margin-bottom: 20px;
+        margin-top: 10px;
+
+
+    }
+
+    .submit:hover {
+
+        opacity:0.9;
+    }
+
+
+    /* ==========================Link====================== */
+
+
+    .link {
+
+  color: rgb(73, 73, 207);
+  text-decoration: none;
+  font-family: helvetica;
+  font-size: 14px;
+  margin-left: 590px;
+  
+
+    }
+
+    .link:hover {
+
+ color: rgb(133, 90, 249);
+
+
+    }
+
+
+
+    /* .link:visited {
+
+        color: rgb(224, 18, 18);
+       
+       
+           } */
+
+
+           /* ====================================Footer=========================================== */
+
+
+
+           #footer {
+
+
+color: rgb(77, 72, 72);
+
+
+
+
+           }
+
+           .px {
+
+ font-size: 14px;
+
+           }
